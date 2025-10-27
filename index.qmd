@@ -12,6 +12,6 @@ execute:
   message: false
 ---
 
-[Lab1](Lab1_DylanMackler.html)
+[Lab 1](Lab1_DylanMackler.html)
 
-[Lab2](Lab2_DylanMackler.html)
+[Lab 2](Lab2_DylanMackler.html)
