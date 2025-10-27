@@ -1,0 +1,17 @@
+---
+title: "Lab S3"
+author: "Dylan Mackler"
+format:
+  html:
+    toc: true
+    toc_float: true
+    embed-resources: true
+    theme: darkly
+execute: 
+  warning: false
+  message: false
+---
+
+[Lab1](Lab1_DylanMackler.html)
+
+[Lab2](Lab2_DylanMackler.html)
